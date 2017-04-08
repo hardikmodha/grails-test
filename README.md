@@ -6,7 +6,7 @@ Project contains....
 
 1. Minimal configuration in `application.groovy`, where I've defined some configuration based on the specific environment.
 
-2. I've created a `TestController` to retreive the current environment and configuration values. 
+2. I've created a `TestController` to retrieve the current environment and configuration values. 
 
 -------
 Steps to reproduce...
